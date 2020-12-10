@@ -13,56 +13,31 @@
 ## Features
 [:arrow_up: Back to top](#index)
 
-|   Community Edition   |   Enterprise Edition   |
-|-----------------------|:-------------------------:|
-| Academic Year manage  | Academic Year manage   |
-| Academic Calendar Setup | Academic Calendar Setup |
-| Institute Setup | Institute Setup |
-| Class & Section Manage | Class & Section Manage |
-| Subject & Teacher Manage | Subject & Teacher Manage |
-| Student Admission | Student Admission |
-| Student Attendance |  Student Attendance |
-| Exam & Grading Rules | Exam & Grading Rules |
-| Marks & Result | Easy Marks Entry & Result Manage |
-| Student Promotion | Dynamic and more advance Student Promotion |
-| Employees Manage | Employees Manage |
-| Employees Attendance | Employees Attendance | 
-| Employees Leave | Employees Leave |
-|   | Employees Work Outside |
-|   | SMS Gateway Setup |
-|   | Email & SMS Templating |
-|   | Attendance notification email/sms |
-|  | Id Card templates Manage |
-|  | Employee & Student id card print |
-| User & Role manage with permission grid(ACL) | User & Role manage with permission grid(ACL) |
-| User wise Dashboard | User wise Dashboard
-| Report Settings | Report Settings |
-| Only 5 Reports | **40+** Reports |
-| Dynamic Front Website | Dynamic Front Website |
-| Website Management Panel |  Website Management Panel
-| Photo Gallery | Photo Gallery | 
-| Event Manage | Event Manage |
-| Google Analytics | Google Analytics |
-| User Notification | User Notification |
-|                   | Online Admission |
-|                   | Online Admit Card & Payslip |
-|                   | Notice Board |
-|                   | Student & Employee Id card bulk/mass print |
-|                   | Account Manage |
-|                   | Budget Manage |
-|                   | Account Heads |
-|                   | Student Invoice |
-|                   | Income / Expense Manage |
-|                   | Payroll |
-|                   | Salary Template |
-|                   | Employee Salary Payment |
-|                   | Hostel & Collection Manage |
-|                   | Library Manage |
-|                   | Issue book and fine collection |
-|                   | Academic Calendar Print |
-|                   | Bulk SMS and Email Sending |
-|                   | **40+** Reports |
-
+|   Features  | 
+|-----------------------|
+| Academic Year manage  |
+| Academic Calendar Setup |
+| Institute Setup | 
+| Class & Section Manage | 
+| Subject & Teacher Manage | 
+| Student Admission | 
+| Student Attendance | 
+| Exam & Grading Rules | 
+| Marks & Result |
+| Student Promotion |
+| Employees Manage |
+| Employees Attendance | 
+| Employees Leave | 
+| User & Role manage with permission grid(ACL) |
+| User wise Dashboard | 
+| Report Settings |
+| Only 5 Reports | 
+| Dynamic Front Website |
+| Website Management Panel | 
+| Photo Gallery | 
+| Event Manage |
+| Google Analytics | 
+| User Notification |
 
 ## Installation
 [:arrow_up: Back to top](#index)
