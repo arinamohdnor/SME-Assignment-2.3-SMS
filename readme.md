@@ -109,6 +109,11 @@
     $ npm run frontend-prod
     ```
     
+- Start development server
+    ```
+    $ php artisan serve
+    ```
+
 - Go to http://localhost and you're done!
 
 #### Use the app
