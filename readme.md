@@ -13,7 +13,7 @@
 ## Features
 [:arrow_up: Back to top](#index)
 
-|   Featuress  | 
+|   Features  | 
 |-----------------------|
 | Academic Year manage  |
 | Academic Calendar Setup |
